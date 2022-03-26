@@ -16,8 +16,10 @@
 
 </div>
 
-- 🔭 I’ve worked on **Portfolio Site**,**Learning academy** and **Motaweron**
-- 
+- 🔭 I’ve worked on **Portfolio Site** *
+  ,* **Learning academy**
+  *and* **Motaweron**
+
 - 🌱 I’m currently learning **php,laravel, etc**
 
 - 👯 I’m looking to collaborate on **Eldapour**
