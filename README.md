@@ -16,10 +16,8 @@
 
 </div>
 
-- 🔭 I’m currently working on **Portfolio Site**
-- 🔭 I’m currently working on **Learning academy**
-- 🔭 I’m currently working on **Motaweron**
-
+- 🔭 I’ve worked on **Portfolio Site**,**Learning academy** and **Motaweron**
+- 
 - 🌱 I’m currently learning **php,laravel, etc**
 
 - 👯 I’m looking to collaborate on **Eldapour**
