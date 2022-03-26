@@ -16,7 +16,9 @@
 
 </div>
 
-- 🔭 I’m currently working on **lord**
+- 🔭 I’m currently working on **Portfolio Site**
+- 🔭 I’m currently working on **Learning academy**
+- 🔭 I’m currently working on **Motaweron**
 
 - 🌱 I’m currently learning **php,laravel, etc**
 
