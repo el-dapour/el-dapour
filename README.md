@@ -17,8 +17,8 @@
 </div>
 
 - 🔭 I’ve worked on
--  **Portfolio Site** ,
--  **Learning academy** ,
+-  **Portfolio Site** 
+-  **Learning academy**
 -  **Motaweron**
 
 - 🌱 I’m currently learning **php,laravel, etc**
