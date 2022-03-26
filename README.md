@@ -17,9 +17,9 @@
 </div>
 
 - 🔭 I’ve worked on
--  **Portfolio Site** 🆕
--  **Learning academy** 👽
--  **Motaweron** 🦁
+-  **Portfolio Site** 🆕 [https://github.com/el-dapour/Portfolio]
+-  **Learning academy** 👽 [https://github.com/el-dapour/learning-academy]
+-  **Motaweron** 🦁 [https://github.com/el-dapour/motaweron]
 
 - 🌱 I’m currently learning **php,laravel, etc**
 
