@@ -16,11 +16,12 @@
 
 </div>
 
-- 🔭 I’ve worked on
--  **Portfolio Site** 🆕 [https://github.com/el-dapour/Portfolio]
--  **Learning academy** 👽 [https://github.com/el-dapour/learning-academy]
--  **Motaweron** 🦁 [https://github.com/el-dapour/motaweron]
-
+<h3>🔭 I’ve worked on </h3>
+<hr>
+ **Portfolio Site** 🆕 [https://github.com/el-dapour/Portfolio] <br>
+  **Learning academy** 👽 [https://github.com/el-dapour/learning-academy] <br>
+  **Motaweron** 🦁  [https://github.com/el-dapour/motaweron]
+<hr>
 - 🌱 I’m currently learning **php,laravel, etc**
 
 - 👯 I’m looking to collaborate on **Eldapour**
