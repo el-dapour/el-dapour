@@ -18,7 +18,7 @@
 
 <h3>🔭 I’ve worked on </h3>
 <hr>
- **Eldapour Site** 🆕 [https://github.com/el-dapour/Portfolio] <br>
+ **Eldapour Site** 🆕 [https://github.com/el-dapour/lord] <br>
   **Learning academy** 👽 [https://github.com/el-dapour/learning-academy] <br>
   **Motaweron** 🦁  [https://github.com/el-dapour/motaweron]
 <hr>
