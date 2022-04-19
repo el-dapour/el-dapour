@@ -17,13 +17,9 @@
 </div>
 
 <h3>🔭 I’ve worked on </h3>
-<hr>
-<a href='https://github.com/el-dapour/lord'>Eldapour Site</a>
-<hr>
-<a href='https://github.com/el-dapour/learning-academy'>Learning Academy</a>
-<hr>
-<a href='https://github.com/el-dapour/motaweron'>Eldapour Site</a>
-<hr>
+<a href='https://github.com/el-dapour/lord'>Eldapour Site</a><span>|</span>
+<a href='https://github.com/el-dapour/learning-academy'>Learning Academy</a><span>|</span>
+<a href='https://github.com/el-dapour/motaweron'>Eldapour Site</a><span>|</span>
 <a href='https://github.com/el-dapour/mypos'>My Pos</a>
 <hr>
 - 🌱 I’m currently learning **php,laravel, etc**
