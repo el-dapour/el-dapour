@@ -18,10 +18,10 @@
 
 <h3>🔭 I’ve worked on </h3>
 <hr>
- **Eldapour Site** 🆕 [https://github.com/el-dapour/lord] <br>
-  **Learning academy** 👽 [https://github.com/el-dapour/learning-academy] <br>
-  **Motaweron** 🦁  [https://github.com/el-dapour/motaweron]
-  **MY pos** 🍎  [https://github.com/el-dapour/mypos]
+<a href='https://github.com/el-dapour/lord'>Eldapour Site</a>
+<a href='https://github.com/el-dapour/learning-academy'>Learning Academy</a>
+<a href='https://github.com/el-dapour/motaweron'>Eldapour Site</a>
+<a href='https://github.com/el-dapour/mypos'>My Pos</a>
 <hr>
 - 🌱 I’m currently learning **php,laravel, etc**
 
