@@ -21,7 +21,7 @@
  **Eldapour Site** 🆕 [https://github.com/el-dapour/lord] <br>
   **Learning academy** 👽 [https://github.com/el-dapour/learning-academy] <br>
   **Motaweron** 🦁  [https://github.com/el-dapour/motaweron]
-  **MY pos** 🦁  [https://github.com/el-dapour/mypos]
+  **MY pos** 🍎  [https://github.com/el-dapour/mypos]
 <hr>
 - 🌱 I’m currently learning **php,laravel, etc**
 
